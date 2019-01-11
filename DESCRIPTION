@@ -1,0 +1,15 @@
+Package: StatComp18025
+Type: Package
+Title: Example functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-1-11
+Author: 18025
+Maintainer: Hong Zhang <zhangh@ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown, MASS, bootstrap, boot, DAAG, RANN, energy, Ball, nloptr, vcd
+LinkingTo: Rcpp
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: https://github.com/SA18017009/Statcomp18025
+BugReports: https://github.com/SA18017009/Statcomp18025/issues
